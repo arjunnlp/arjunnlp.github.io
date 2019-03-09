@@ -1,4 +1,4 @@
-# The Drummond Lab main website
+# Lab main website
 
 ##
 
