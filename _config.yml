@@ -8,25 +8,23 @@ highlighter: rouge
 
 markdown: kramdown
 
-repository: drummondlab/drummondlab.github.io
+repository: arjunnlp/arjunnlp.github.io
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Drummond Lab
-tagline: Evolution and regulation of protein production and quality control
+title : Arjun NLP Lab
+tagline: Natural Language Processing and Representation Learning
 institution:
   url: http://www.uchicago.edu
-  name: The University of Chicago
+  name: University of Houston
 department:
   url: http://bmb.uchospitals.edu
-  name: Biochemistry & Molecular Biology
+  name: Computer Science
 author :
-  name : D. Allan Drummond
-  email : dadrummond@uchicago.edu
-  github : dad
-  twitter : dadrummond
-#  feedburner : feedname
+  name : Dainis Boumber
+  email : dainis.boumber@gmail.com
+  github : dainis-boumber
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
