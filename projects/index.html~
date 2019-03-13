@@ -1,10 +1,9 @@
 ---
-layout: default
-title: "GitHub"
-description: "Research projects in the lab"
-group: navigation
-navorder: 1
+permalink: /page
+redirect_to:
+  - https://github.com/arjunnlp
 ---
+<!--
 {% include JB/setup %}
 <div class="bigspacer"></div>
 <div class="construction">
@@ -23,7 +22,7 @@ navorder: 1
       </a>
     </div>
   </div>
-  -->
+
   <div class='row'>
     <div class="col-md-4 paperbox">
       <div class="smallhead media-heading"><a href="https://github.com/arjunnlp/" class="off">{{ project.title }}</a></div>
@@ -36,3 +35,4 @@ navorder: 1
 {% endfor %}
 
 <div class="bigspacer"></div>
+-->
