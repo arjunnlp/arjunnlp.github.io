@@ -1,9 +1,9 @@
 ---
 layout: member
-title: "Marjan Hosseinia"
+title: "Yigeng Zhang"
 position: Ph.D. student
-nickname: Marjan
-handle: marjan
+nickname: Yigeng
+handle: yigeng
 email: 
 twitter: 
 github: 
@@ -11,5 +11,4 @@ scholar:
 image: /assets/images/team/default.png
 alum: false
 ---
-
 

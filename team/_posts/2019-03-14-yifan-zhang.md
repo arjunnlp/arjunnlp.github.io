@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Yifan Zhang"
-position: Graduate student
+position: Ph.D. student
 nickname: Yifan
 handle: yifan
 email: 
@@ -11,5 +11,4 @@ scholar:
 image: /assets/images/team/default.png
 alum: false
 ---
-blah
 
